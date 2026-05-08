@@ -1,4 +1,4 @@
-
+Get the ultimate Bitwarden for macOS integration with custom Bitwarden for macOS Integration | password-sharing + encryption. Featuring password-sharing and encryption, it's the
 
 
 
